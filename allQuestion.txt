@@ -1,0 +1,77 @@
+面向对象程序设计技术（Java）单元测试试卷
+一、单选题（共5题，每题1分，共5分）
+1、以下属于Java关键字的是（ D）。
+A.NULL
+B.IF
+C.DO
+D.while
+2、在Java语言中，用package语句说明一个类所在的包时，该包的层次结构必须(  B)。
+A.与文件的结构相同
+B.与文件目录的层次相同
+C.与文件类型相同
+D.与文件大小相同
+3、下列语句中，属于多分支语句的是(   B )。
+A.if语句
+B.switch语句
+C.do while语句
+D.for语句
+4、在Java语言中，所有类的根类是(    D)。
+A.java.awt.Frame
+B.java.lang.Class
+C.java.applet.Applet
+D.java.lang.Object
+5、Java编程默认的引用包为(   B )。
+A.java.sys包
+B.java.lang包
+C.java.new包
+D.java.util包
+二、多选题（共5题，每题1分，共5分）
+6、要使类中的某个成员变量只能被它自身和它的子类访问到，该变量可用(   A )修饰符修饰。
+A.protected
+B.public
+C.private
+D.不加修饰符
+7、以下代码段将创建（    C）个对象。
+	String s1 = “bc”;
+	String s2 = “bc”;
+A.0
+B.1
+C.2
+D.3
+8、下列语句序列执行后，x的值是（    A）
+	int a=3, b=4, x=5;
+	if(++a<b) x=x+1;
+A.5
+B.3
+C.4
+D.6
+9、若数组a定义为int[][] a = new int[3][4]，则a是(    BD)
+A.一维数组
+B.二维数组
+C.三维数组
+D.四维数组
+10、以下(   C )是正确的表达式。
+A.byte = 128;
+B.Boolean = null;
+C.long l = 0xfffL;
+D.double d = 0.9239d;
+三、判断题（共5题，每题1分，共5分）
+11、String s; 语句创建了一个String对象。（错误）
+A.正确
+B.错误
+12、接口中只能定义一个抽象方法。（错误）
+A.正确
+B.错误
+13、抽象类也可以实现接口。（正确）
+A.正确
+B.错误
+14、JLabel类定义在java.awt包中。（错误）
+A.正确
+B.错误
+15、Java对事件的处理采用的是事件委托模型。（正确）
+A.正确
+B.错误
+
+
+
+
